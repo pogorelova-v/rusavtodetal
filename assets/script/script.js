@@ -20,3 +20,5 @@ choiceBtn.forEach(el => {
         choiceElem[ind].classList.toggle('v-h');
     })
 });
+
+let imgArr = Array.from(document.querySelectorAll('img'));
